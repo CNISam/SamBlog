@@ -1,0 +1,41 @@
+[
+  {
+    "name": "理想三旬",
+    "artist": "陈鸿宇",
+    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/理想三旬.mp3",
+    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/理想三旬.jpg",
+    "lrc": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/理想三旬.lrc"
+  },
+  {
+    "name": "用力活着",
+    "artist": "张茜（张惜淇）",
+    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/用力活着.mp3",
+    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/用力活着.jpg",
+    "lrc": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/用力活着.lrc"
+  },
+  {
+    "name": "说了再见 (Piano Ver.)",
+    "artist": "Piano Echoes",
+    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/说了再见.mp3",
+    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/说了再见.jpg"
+  },
+  {
+    "name": "ハナミズキ (Piano Cover)",
+    "artist": "中村理恵",
+    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/ハナミズキ.mp3",
+    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/ハナミズキ.jpg"
+  },
+  {
+    "name": "The Truth That You Leave",
+    "artist": "高至豪",
+    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/The Truth That You Leave.mp3",
+    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/The Truth That You Leave.jpg"
+  },
+  {
+    "name": "Close to you",
+    "artist": "Vin婧",
+    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/Close to you.mp3",
+    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/Close to you.jpg",
+    "lrc": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/Close to you.lrc"
+  }
+]
