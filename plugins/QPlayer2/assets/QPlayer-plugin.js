@@ -98,7 +98,7 @@
         }
 
         // 默认音量设置
-        q.defaultVolume = q.defaultVolume || 80;
+        q.defaultVolume = q.defaultVolume || 8;
 
         // 添加音量控制功能
         q.addVolumeControl = function() {
