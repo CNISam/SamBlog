@@ -196,7 +196,7 @@ button:hover,input[type=submit]:hover {
 #nav-menu a {
     float: none;
     display: inline-block;
-    margin: 0 -3px 0px -2px;
+    margin: 0 0 0 -1px;
     padding: 0 20px;
     border: 1px solid var(--border-color);
     border-bottom: none;
