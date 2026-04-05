@@ -42,7 +42,7 @@ urlset::before {
   padding: 20px;
   font-size: 24px;
   font-weight: bold;
-  background-image: url('/favicon.svg');
+  background-image: url('//www.cnsam.com/favicon.svg');
   background-repeat: no-repeat;
   background-position: left 20px center;
   background-size: 32px 32px;
