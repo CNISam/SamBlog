@@ -1,17 +1,16 @@
 [
   {
-    "name": "理想三旬",
-    "artist": "陈鸿宇",
-    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/理想三旬.mp3",
-    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/理想三旬.jpg",
-    "lrc": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/理想三旬.lrc"
+    "name": "Free Loop",
+    "artist": "七元",
+    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/Free Loop.mp3",
+    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/Free Loop.jpg",
+    "lrc": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/Free Loop.lrc"
   },
   {
-    "name": "用力活着",
-    "artist": "张茜（张惜淇）",
-    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/用力活着.mp3",
-    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/用力活着.jpg",
-    "lrc": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/用力活着.lrc"
+    "name": "迢迢明月夜",
+    "artist": "柳不贰",
+    "audio": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/迢迢明月夜.mp3",
+    "cover": "https://cdn.jsdmirror.com/gh/CNISam/SamBlog/plugins/QPlayer2/res/迢迢明月夜.jpg",
   },
   {
     "name": "说了再见 (Piano Ver.)",
