@@ -239,6 +239,8 @@ button:hover,input[type=submit]:hover {
 
 #themeMode-selector #themeMode {
     height: 28px;
+	margin-left: 4px;
+    border-radius: 2px;
     border: 1px solid var(--border-color);
     background-color: var(--bg-color);
     color: var(--text-color)
