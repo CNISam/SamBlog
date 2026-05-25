@@ -809,8 +809,6 @@ button:hover,input[type=submit]:hover {
 /* ------------------
  * 悬浮工具区样式
  * --------------- */
- 
- /* 浮动工具栏样式 */
 .minitool-group {
     position: fixed;
     right: 24px;
@@ -837,6 +835,9 @@ button:hover,input[type=submit]:hover {
     color: #333;
     padding: 6px 4px;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    border: none;
+    font-size: 20px;
+    outline: none;
 }
 
 .minitool-group .vertical-btn:hover {
@@ -859,6 +860,36 @@ button:hover,input[type=submit]:hover {
 
 .minitool-group .vertical-btn svg + svg {
     display: none;
+}
+
+/* 保留原有按钮控制逻辑 */
+.minitool-group .toc-minitool {
+    display: none
+}
+
+.minitool-group .top-minitool {
+    opacity: 0;
+    transition: all 300ms ease-in-out
+}
+
+/* 主题模式图标显示控制（保留原有核心逻辑） */
+.minitool-group .themeMode-minitool .bi-sun,
+.minitool-group .themeMode-minitool .bi-moon-stars,
+.minitool-group .themeMode-minitool .bi-book {
+    display: none
+}
+
+[theme-mode=""] .minitool-group .themeMode-minitool .bi-sun,
+[theme-mode="light"] .minitool-group .themeMode-minitool .bi-sun {
+    display: block
+}
+
+[theme-mode="dark"] .minitool-group .themeMode-minitool .bi-moon-stars {
+    display: block
+}
+
+[theme-mode="read"] .minitool-group .themeMode-minitool .bi-book {
+    display: block
 }
 
 /* 更多菜单容器 */
