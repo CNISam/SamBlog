@@ -34,7 +34,7 @@ body {
 
 /* 标题样式 */
 urlset::before {
-  content: 'Sam\'s Blog - 站点地图';
+  content: '卅木随笔 (Sam's Blog) - 站点地图';
   display: flex;
   align-items: center;
   background-color: #333;
@@ -94,7 +94,7 @@ changefreq, priority {
 
 /* Footer 样式 */
 urlset::after {
-  content: "© Sam's Blog - 站点地图";
+  content: "© 卅木随笔 (Sam's Blog) - 站点地图";
   display: block;
   background-color: #333;
   color: #fff;
