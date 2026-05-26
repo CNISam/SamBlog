@@ -903,6 +903,7 @@ button:hover,input[type=submit]:hover {
 
 .minitool-more-menu {
     text-align: center;
+	white-space: nowrap;
     position: absolute;
     bottom: 0;
     right: 60px;
