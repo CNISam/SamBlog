@@ -1201,6 +1201,56 @@ body[theme-mode="read"] .minitool-more-menu a:hover {
     pointer-events: auto
 }
 
+.top-minitool-wrapper {
+    position: relative;
+    display: inline-block;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.top-minitool-wrapper.visible {
+    opacity: 1;
+}
+
+.top-minitool-wrapper.visible .top-minitool {
+    opacity: 1;
+}
+
+.top-minitool-progress {
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    z-index: 1;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.top-minitool-wrapper.visible .top-minitool-progress {
+    opacity: 1;
+}
+
+.progress-ring {
+    stroke: var(--link-color);
+    stroke-dashoffset: 0;
+    transition: stroke-dasharray 0.15s ease;
+}
+
+[theme-mode="dark"] .progress-bg {
+    stroke: rgba(128, 128, 128, 0.2);
+}
+
+[theme-mode="read"] .progress-bg {
+    stroke: rgba(128, 128, 128, 0.2);
+}
+
+.top-minitool-wrapper .vertical-btn.top-minitool {
+    position: relative;
+    z-index: 2;
+}
+
 /* ------------------
  * 时间轴样式
  * --------------- */
