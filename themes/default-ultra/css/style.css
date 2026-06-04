@@ -780,7 +780,7 @@ button:hover,input[type=submit]:hover {
 .footer-nav a,
 .footer-record a {
     color: var(--secondary-color) !important;
-    margin: 0 5px !important;
+    margin: 0 1px !important;
     display: inline !important;
 }
 .footer-nav a:first-child {
