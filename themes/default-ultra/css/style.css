@@ -757,7 +757,9 @@ button:hover,input[type=submit]:hover {
 
 /* 友情链接图片统一样式 */
 .footer-friendlink img {
-  width: auto;
+    width: auto;
+    vertical-align: middle;
+    display: inline-block;
 }
 /* 鼠标悬浮效果（可选，更好看） */
 .footer-friendlink img:hover {
